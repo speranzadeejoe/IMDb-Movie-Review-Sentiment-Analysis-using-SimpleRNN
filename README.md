@@ -70,12 +70,6 @@ Dense(1, activation='sigmoid')
 
 ---
 
-## 📉 Loss and Accuracy Graphs
-
-<img src="your_image_path_here.png" width="700"/>
-
----
-
 ## 🔮 Future Improvements
 
 * Use **LSTM** or **GRU** for deeper context
